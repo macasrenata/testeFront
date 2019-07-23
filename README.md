@@ -1,6 +1,6 @@
 
 
-#App Angular 7 e consumindo uma API REST
+<b>App Angular 7 e consumindo uma API REST</b>
 
 Este projeto foi gerado com o CLI Angular versão 7 e consumindo API REST em <a>https://swapi.co/</a>.
 
